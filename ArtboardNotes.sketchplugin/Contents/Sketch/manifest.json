@@ -11,10 +11,10 @@
       }
   ],
   "identifier" : "com.abynim.ArtboardNotes",
-  "version" : "0.1",
+  "version" : "0.1.1",
   "icon" : "icon.png",
   "description" : "Add notes for artboards",
-  "authorName" : "Aby Nimbalkar",
+  "author" : "Jordan, Aby",
   "name" : "Artboard Notes",
   "disableCocoaScriptPreprocessor" : true,
   "homepage" : "",
