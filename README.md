@@ -1,4 +1,4 @@
-# sketch-artboard-notes
-A minimal plugin to add notes to artboards in Sketch
+# Sketch Artboard Notes
+Add notes to your artboards in Sketch.
 
 Icon by [Matthew Skiles](https://twitter.com/matthewskiles)
