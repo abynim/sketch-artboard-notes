@@ -11,12 +11,12 @@
       }
   ],
   "identifier" : "com.abynim.ArtboardNotes",
-  "version" : "0.1.1",
+  "version" : "0.1.2",
   "icon" : "icon.png",
   "description" : "Add notes for artboards",
   "author" : "Jordan, Aby",
   "name" : "Artboard Notes",
   "disableCocoaScriptPreprocessor" : true,
-  "homepage" : "",
-  "appcast" : ""
+  "homepage" : "https://github.com/abynim/sketch-artboard-notes",
+  "appcast" : "https://raw.githubusercontent.com/abynim/sketch-artboard-notes/master/.appcast.xml"
 }
