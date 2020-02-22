@@ -1,5 +1,4 @@
-# Sketch Artboard Notes
-## Add notes to your artboards.
+# Sketch Artboard Notes - Add notes to your artboards
 
 ---
 
