@@ -1,4 +1,4 @@
-# Sketch Artboard Notes - Add notes to your artboards
+# Sketch Artboard Notes - Add Notes to Your Artboards
 
 Artboard Notes adds a text area to the inspector, for use however you like. It is simple, lighweight and native and feels great within the Sketch UI. Simply select an artboard and the text area will be available.
 
